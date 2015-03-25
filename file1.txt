@@ -1,2 +1,6 @@
 Adding some code here
+<<<<<<< HEAD
 Adding yet more code
+=======
+Fix1
+>>>>>>> 7483932... added fix1
